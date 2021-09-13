@@ -1,0 +1,1 @@
+# CppQuickRef-98_FunctionThrowingException
